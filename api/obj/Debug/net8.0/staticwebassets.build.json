@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zM7SnUkMPQQE6ldwL8nmmgyOW/R0x6zLk9cnjAJELJ0=",
+  "Source": "recipes-app",
+  "BasePath": "_content/recipes-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
