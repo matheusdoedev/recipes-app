@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "zM7SnUkMPQQE6ldwL8nmmgyOW/R0x6zLk9cnjAJELJ0=",
-  "Source": "recipes-app",
-  "BasePath": "_content/recipes-app",
+  "Hash": "TbdWvMCkVk6SykpFNh+Gl98MoTAD/iFF+FH3y76S/CM=",
+  "Source": "RecipesApi",
+  "BasePath": "_content/RecipesApi",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],

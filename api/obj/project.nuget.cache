@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SxnXjieqC6w=",
+  "dgSpecHash": "51IGReJ7uhw=",
   "success": true,
-  "projectFilePath": "/home/matheusdoedev/repositories/recipes-app/api/recipes-app.csproj",
+  "projectFilePath": "/home/matheusdoedev/repositories/recipes-app/api/RecipesApi.csproj",
   "expectedPackageFiles": [
     "/home/matheusdoedev/.nuget/packages/microsoft.aspnetcore.openapi/8.0.10/microsoft.aspnetcore.openapi.8.0.10.nupkg.sha512",
     "/home/matheusdoedev/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

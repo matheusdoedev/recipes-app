@@ -487,9 +487,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/matheusdoedev/repositories/recipes-app/api/recipes-app.csproj",
-      "projectName": "recipes-app",
-      "projectPath": "/home/matheusdoedev/repositories/recipes-app/api/recipes-app.csproj",
+      "projectUniqueName": "/home/matheusdoedev/repositories/recipes-app/api/RecipesApi.csproj",
+      "projectName": "RecipesApi",
+      "projectPath": "/home/matheusdoedev/repositories/recipes-app/api/RecipesApi.csproj",
       "packagesPath": "/home/matheusdoedev/.nuget/packages/",
       "outputPath": "/home/matheusdoedev/repositories/recipes-app/api/obj/",
       "projectStyle": "PackageReference",
